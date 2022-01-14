@@ -1,0 +1,11 @@
+PHP Part:
+Upload all files in /PHP folder on your webserver
+Chmod /models 777 (write permission)
+edit dbase.php and change the db info
+edit settings.php to change different settings
+
+Flash Com Part:
+Upload the /videochat folder including the main.asc file inside it in your flash com /applications folder
+
+DB:
+Upload database structure using phpMyAdmin
