@@ -1,0 +1,11 @@
+[25-Jan-2006 00:40:20] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[25-Jan-2006 01:17:09] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[25-Jan-2006 01:17:20] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[25-Jan-2006 01:17:20] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[25-Jan-2006 02:04:24] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[25-Jan-2006 02:04:25] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[25-Jan-2006 03:19:05] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[25-Jan-2006 04:58:13] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[26-Jan-2006 13:28:36] PHP Warning:  mysql_connect(): Access denied for user: 'camgirlz_admin@localhost' (Using password: YES) in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[07-Apr-2006 21:01:56] PHP Warning:  mysql_connect(): User ppvchat_demo has already more than 'max_user_connections' active connections in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2
+[07-Apr-2006 21:01:56] PHP Warning:  mysql_connect(): User ppvchat_demo has already more than 'max_user_connections' active connections in /home/ppvchat/public_html/demo/demo3/dbase.php on line 2

@@ -1,0 +1,95 @@
+[14-Feb-2006 03:05:59] PHP Warning:  imagecopyresized(): supplied argument is not a valid Image resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 87
+[14-Feb-2006 16:35:27] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[15-Feb-2006 12:37:42] PHP Warning:  Division by zero in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 79
+[15-Feb-2006 12:37:42] PHP Warning:  imagecopyresized(): supplied argument is not a valid Image resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 87
+[01-Mar-2006 17:37:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php:22) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php on line 28
+[01-Mar-2006 19:34:17] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/broadcast.php on line 23
+[01-Mar-2006 19:34:27] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/broadcast.php on line 23
+[01-Mar-2006 21:29:11] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[01-Mar-2006 21:29:11] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:29:11] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:29:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 329
+[01-Mar-2006 21:29:11] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 343
+[01-Mar-2006 21:32:43] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[01-Mar-2006 21:32:43] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:32:43] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:32:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 329
+[01-Mar-2006 21:32:43] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 343
+[01-Mar-2006 21:38:18] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/broadcast.php on line 23
+[01-Mar-2006 21:42:31] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[01-Mar-2006 21:42:31] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:42:31] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:42:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 329
+[01-Mar-2006 21:42:31] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 343
+[01-Mar-2006 21:44:55] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[01-Mar-2006 21:44:55] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:44:55] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 327
+[01-Mar-2006 21:44:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 329
+[01-Mar-2006 21:44:55] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 343
+[04-Mar-2006 06:07:20] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[04-Mar-2006 06:07:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php:21) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 107
+[04-Mar-2006 06:07:20] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[04-Mar-2006 06:07:20] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[04-Mar-2006 06:07:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 306
+[04-Mar-2006 06:07:20] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 320
+[04-Mar-2006 20:10:18] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[09-Mar-2006 17:16:21] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/recordshow.php on line 23
+[27-Mar-2006 05:19:41] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/broadcast.php on line 23
+[27-Mar-2006 05:58:40] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[29-Mar-2006 14:43:47] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[31-Mar-2006 08:09:35] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[31-Mar-2006 08:10:06] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[04-Apr-2006 13:38:54] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/recordshow.php on line 23
+[04-Apr-2006 13:50:12] PHP Warning:  imagecopyresized(): supplied argument is not a valid Image resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 68
+[04-Apr-2006 18:53:18] PHP Warning:  imagecopyresized(): supplied argument is not a valid Image resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 68
+[04-Apr-2006 18:53:33] PHP Warning:  imagecopyresized(): supplied argument is not a valid Image resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 68
+[06-Apr-2006 21:11:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php:22) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php on line 28
+[06-Apr-2006 21:11:52] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/paymentop.php on line 21
+[06-Apr-2006 23:23:58] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[08-Apr-2006 22:30:43] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[08-Apr-2006 22:33:30] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[08-Apr-2006 22:34:25] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/rules.php on line 19
+[08-Apr-2006 22:35:23] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/broadcast.php on line 23
+[08-Apr-2006 22:35:29] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/paymentop.php on line 21
+[08-Apr-2006 22:35:36] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/showslist.php on line 21
+[08-Apr-2006 22:36:00] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/recordshow.php on line 23
+[08-Apr-2006 22:38:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php:22) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php on line 28
+[08-Apr-2006 22:38:47] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[08-Apr-2006 22:38:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php:21) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 107
+[08-Apr-2006 22:38:47] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[08-Apr-2006 22:38:47] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[08-Apr-2006 22:38:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 306
+[08-Apr-2006 22:38:47] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 320
+[24-Apr-2006 12:33:17] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[24-Apr-2006 12:34:02] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[24-Apr-2006 12:34:41] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/rules.php on line 19
+[24-Apr-2006 12:35:18] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/broadcast.php on line 23
+[24-Apr-2006 12:35:24] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/paymentop.php on line 21
+[24-Apr-2006 12:35:39] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/showslist.php on line 21
+[24-Apr-2006 12:36:02] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/recordshow.php on line 23
+[24-Apr-2006 12:37:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php:22) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php on line 28
+[24-Apr-2006 12:37:22] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[24-Apr-2006 12:37:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php:21) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 107
+[24-Apr-2006 12:37:22] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[24-Apr-2006 12:37:22] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[24-Apr-2006 12:37:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 306
+[24-Apr-2006 12:37:22] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 320
+[25-Apr-2006 00:02:54] PHP Warning:  unlink(../../models/topmodel/68dc136bef23b6ff492a24e1f7ddd16d_thumbnail.jpg): No such file or directory in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 154
+[25-Apr-2006 00:02:54] PHP Warning:  unlink(../../models/topmodel/68dc136bef23b6ff492a24e1f7ddd16d.jpg): No such file or directory in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 156
+[25-Apr-2006 00:03:03] PHP Warning:  imagecopyresized(): supplied argument is not a valid Image resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 68
+[30-Apr-2006 00:57:49] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 21
+[30-Apr-2006 00:57:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php:21) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 107
+[30-Apr-2006 00:57:49] PHP Warning:  mysql_query(): Access denied for user: 'ppvchat@localhost' (Using password: NO) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[30-Apr-2006 00:57:49] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 304
+[30-Apr-2006 00:57:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 306
+[30-Apr-2006 00:57:49] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 320
+[30-Apr-2006 00:58:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php:22) in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/updateprofile.php on line 28
+[30-Apr-2006 00:58:32] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/broadcast.php on line 23
+[30-Apr-2006 00:59:41] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/index.php on line 19
+[30-Apr-2006 00:59:46] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/rules.php on line 19
+[30-Apr-2006 01:00:35] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/paymentop.php on line 21
+[30-Apr-2006 01:00:41] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/showslist.php on line 21
+[30-Apr-2006 01:00:59] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/recordshow.php on line 23
+[02-May-2006 04:24:17] PHP Warning:  imagecopyresized(): supplied argument is not a valid Image resource in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 68
+[04-May-2006 08:40:36] PHP Warning:  unlink(../../models/topmodel/7b63242575fc6a8af27618d1a672e763_thumbnail.jpg): No such file or directory in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 154
+[04-May-2006 08:40:36] PHP Warning:  unlink(../../models/topmodel/7b63242575fc6a8af27618d1a672e763.jpg): No such file or directory in /home/ppvchat/public_html/demo/demo3/cp/chatmodels/uploadpicture.php on line 156
